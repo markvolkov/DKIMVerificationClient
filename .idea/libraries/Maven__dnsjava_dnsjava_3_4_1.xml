@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: dnsjava:dnsjava:3.4.1" type="java-imported" external-system-id="Maven">
+    <properties groupId="dnsjava" artifactId="dnsjava" version="3.4.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/dnsjava/dnsjava/3.4.1/dnsjava-3.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/dnsjava/dnsjava/3.4.1/dnsjava-3.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/dnsjava/dnsjava/3.4.1/dnsjava-3.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
